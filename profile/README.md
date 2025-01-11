@@ -82,9 +82,5 @@ Hệ thống được xây dựng theo mô hình 3-Layer:
    http://localhost:8080
    ```
 
-## Đóng Góp
-Mọi đóng góp đều được chào đón! Vui lòng gửi pull request hoặc mở issue để báo lỗi.
 
-## Giấy Phép
-Dự án được cấp phép theo giấy phép MIT.
 
